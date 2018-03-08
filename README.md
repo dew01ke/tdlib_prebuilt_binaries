@@ -1,4 +1,4 @@
-# TDLib Precompiled
+# TDLib Pre-built Binaries
 official repository: https://github.com/tdlib/td
 
 ## Window 10 (x64)
